@@ -15,7 +15,8 @@ class LoginViewController: ViewController {
     @IBOutlet weak var phoneTextField: UITextField!
     override func viewDidLoad() {
         super.viewDidLoad()
-        loginButton.layer.cornerRadius = 2
+        passwordTextField.isSecureTextEntry = true
+        loginButton.layer.cornerRadius = 4
         warningLabel.textColor = .white
         
     }
