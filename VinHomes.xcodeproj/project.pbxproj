@@ -17,6 +17,7 @@
 		18CAF56D267F1E1B009886D8 /* RegisterViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 18CAF56B267F1E1B009886D8 /* RegisterViewController.xib */; };
 		18CAF570267F1E37009886D8 /* MainScreenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18CAF56E267F1E37009886D8 /* MainScreenViewController.swift */; };
 		18CAF571267F1E37009886D8 /* MainScreenViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 18CAF56F267F1E37009886D8 /* MainScreenViewController.xib */; };
+		18CAF573267F3EC9009886D8 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18CAF572267F3EC9009886D8 /* LoginViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		18CAF56B267F1E1B009886D8 /* RegisterViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = RegisterViewController.xib; sourceTree = "<group>"; };
 		18CAF56E267F1E37009886D8 /* MainScreenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainScreenViewController.swift; sourceTree = "<group>"; };
 		18CAF56F267F1E37009886D8 /* MainScreenViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainScreenViewController.xib; sourceTree = "<group>"; };
+		18CAF572267F3EC9009886D8 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 				18CAF556267F1CA1009886D8 /* AppDelegate.swift */,
 				18CAF558267F1CA1009886D8 /* SceneDelegate.swift */,
 				18CAF55A267F1CA1009886D8 /* ViewController.swift */,
+				18CAF572267F3EC9009886D8 /* LoginViewController.swift */,
 				18CAF55C267F1CA1009886D8 /* Main.storyboard */,
 				18CAF56E267F1E37009886D8 /* MainScreenViewController.swift */,
 				18CAF56F267F1E37009886D8 /* MainScreenViewController.xib */,
@@ -151,6 +154,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				18CAF573267F3EC9009886D8 /* LoginViewController.swift in Sources */,
 				18CAF570267F1E37009886D8 /* MainScreenViewController.swift in Sources */,
 				18CAF55B267F1CA1009886D8 /* ViewController.swift in Sources */,
 				18CAF557267F1CA1009886D8 /* AppDelegate.swift in Sources */,
