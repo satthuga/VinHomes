@@ -8,4 +8,4 @@
 
 # Register - Du
 
-# Main Screen -
+# Main Screen - Đức
