@@ -4,7 +4,7 @@
 
 * Màn Login (nút đăng ký) -> Màn Register
 * Màn Login( nút đăng nhập) -> Màn chính (hiển thị thông tin cá nhân)
-* Nếu người dùng không nhập sdt hoặc mật khẩu -> in ra thông báo **"Số điện thoại & mật khẩu không hợp lệ"**
+* Không nhập sdt hoặc mật khẩu -> Nút đăng nhập -> in ra thông báo **"Số điện thoại & mật khẩu không hợp lệ"**
 
 # Register - Du
 
